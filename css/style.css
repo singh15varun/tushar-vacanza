@@ -10,7 +10,7 @@ ul {
   list-style: none; }
 
 html {
-  font-size: 62.5%;
+  font-size: 64%;
   font-family: 'Roboto',sans-serif;
   color: #3f3c3d; }
   body {
@@ -346,7 +346,7 @@ background-blend-mode: color;}
     background: #3f3c3d;
   }
   .hamburger > div::after{
-    top:10px;
+    top:10.1px;
   }
   .toggler:checked + .hamburger>div{
     transform:rotate(135deg);
